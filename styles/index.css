@@ -194,8 +194,16 @@ button{
       font-size:15px;
       line-height: 15px;
 }
-.img{
-    
+.img{ 
+    margin: 0 auto;
+    width:364.844px;
+    height:364.844px;
+    text-align: center;
+    padding:40px 40px 40px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border-color:2px red;
 }
 .right{
 
