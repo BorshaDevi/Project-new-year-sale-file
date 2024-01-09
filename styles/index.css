@@ -127,19 +127,25 @@ body{
 /* party end */
 /* card1 start */
 .card-design{
-    position: relative;
+    
     margin:0 auto;
+    background-color: rgb(196, 190, 201);
+    width:500px;
+    height:300px;
+    margin-top:150px;
 }
 .card{
-     background-color: rgb(196, 190, 201);
-     width:500px;
-     height:300px;
-     
-     position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .card-descraftion{
-      
-       
-}
+       text-align: center;
+       color: black;
+     line-height: 5px;
 
+}
+span{
+    color:red;
+}
 /* card1 end */
