@@ -129,10 +129,13 @@ body{
 .card-design{
     
     margin:0 auto;
-    background-color: rgb(196, 190, 201);
+    background-color:rgb(172, 175, 181);
     width:500px;
     height:300px;
     margin-top:150px;
+    border-radius:10px ;
+    border:1px solid rgb(172, 175, 181);
+    box-shadow:0 10px 8px 0 rgba(0,0,0,0.2);
 }
 .card{
     display: flex;
@@ -143,9 +146,20 @@ body{
        text-align: center;
        color: black;
      line-height: 5px;
-
+     margin-top: 50px;
+     font-size: 20px;
+     font-family:Inter ;
+    
 }
 span{
     color:red;
+}
+button{
+    color:white;
+    background-color: red;
+    border:none;
+    padding:10px;
+    margin-top: 10px;
+    border-radius: 5px;
 }
 /* card1 end */
