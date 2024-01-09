@@ -171,11 +171,11 @@ button{
     height:300px;
     margin-top:150px;
     border-radius:10px ;
-    border:1px solid rgb(172, 175, 181);
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
 } 
 .special-card{
-
+      width:500px;
+      height:200px;
 }
 .left{
     margin-top:20px;
@@ -195,18 +195,16 @@ button{
       line-height: 15px;
 }
 .img{ 
-    margin:0 auto;
-    width:300px;
-    height:300px;
-    
+    width:500px;
+    height:200px;
+    margin: 0 50px 0 50px;
 }
 .img-design{
     border: 10px solid red;
     border-radius: 100%;
      padding:20px;
-    
 }
 .right{
-
+ 
 }
 /* card2 end */
