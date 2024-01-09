@@ -126,17 +126,20 @@ body{
 }
 /* party end */
 /* card1 start */
+.card-design{
+    position: relative;
+    margin:0 auto;
+}
 .card{
      background-color: rgb(196, 190, 201);
      width:500px;
      height:300px;
-     margin:0 auto;
-     position: relative;
+     
+     position: absolute;
 }
 .card-descraftion{
-       position: absolute;
-       justify-content: center;
-       align-items: center;
+      
+       
 }
 
 /* card1 end */
