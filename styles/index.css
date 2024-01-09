@@ -199,11 +199,12 @@ button{
     width:364.844px;
     height:364.844px;
     text-align: center;
-    padding:40px 40px 40px;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%;
-    border-color:2px red;
+}
+.img-design{
+    border: 10px solid red;
+    border-radius: 100%;
+     padding:20px;
+     margin:5px;
 }
 .right{
 
