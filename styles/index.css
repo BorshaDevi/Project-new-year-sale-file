@@ -169,7 +169,7 @@ button{
     background-color:white;
     width:1000px;
     height:300px;
-    margin-top:150px;
+    margin-top:200px;
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
 } 
@@ -198,11 +198,16 @@ button{
     width:500px;
     height:200px;
     margin: 0 50px 0 50px;
+    position: relative;
+  
+   
 }
 .img-design{
     border: 10px solid red;
     border-radius: 100%;
-     padding:20px;
+    position: absolute;
+    bottom: 0;
+    padding:10px;
 }
 .right{
  
