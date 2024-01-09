@@ -239,4 +239,13 @@ button{
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
 } 
+.design-img{
+    width:200px;
+    height:150px;
+    text-align: right;
+}
+.special-card2{
+    width:500px;
+      height:200px;
+}
 /* card3 end */
