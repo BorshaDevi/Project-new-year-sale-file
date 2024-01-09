@@ -127,7 +127,6 @@ body{
 /* party end */
 /* card1 start */
 .card-design{
-    
     margin:0 auto;
     background-color:rgb(172, 175, 181);
     width:500px;
@@ -163,3 +162,16 @@ button{
     border-radius: 5px;
 }
 /* card1 end */
+
+/* card2 start */
+.card-design1{
+    margin:0 auto;
+    background-color:white;
+    width:600px;
+    height:300px;
+    margin-top:150px;
+    border-radius:10px ;
+    border:1px solid rgb(172, 175, 181);
+    box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
+} 
+/* card2 end */
