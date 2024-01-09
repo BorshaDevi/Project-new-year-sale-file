@@ -230,5 +230,13 @@ button{
 }
 /* card2 end */
 /* card3 start */
-
+.card-design2{
+    margin:0 auto;
+    background-color:white;
+    width:1600px;
+    height:800px;
+    margin-top:200px;
+    border-radius:10px ;
+    box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
+} 
 /* card3 end */
