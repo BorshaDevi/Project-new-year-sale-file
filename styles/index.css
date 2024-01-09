@@ -195,16 +195,16 @@ button{
       line-height: 15px;
 }
 .img{ 
-    margin: 0 auto;
-    width:364.844px;
-    height:364.844px;
-    text-align: center;
+    margin:0 auto;
+    width:300px;
+    height:300px;
+    
 }
 .img-design{
     border: 10px solid red;
     border-radius: 100%;
      padding:20px;
-     margin:5px;
+    
 }
 .right{
 
