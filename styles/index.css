@@ -199,8 +199,6 @@ button{
     height:200px;
     margin: 0 50px 0 50px;
     position: relative;
-  
-   
 }
 .img-design{
     border: 10px solid red;
@@ -210,18 +208,21 @@ button{
     padding:10px;
 }
 .right{
- 
+  display: inline;
 }
 .right-title{
-
+    color:red;
+    font-size:64px;
 }
 .right-descriftion{
-
+    font-size: 15px;
+    font-family: merriweather;
+    line-height: 15px;
 }
 .new-year-pic{
 
 }
 .right-img{
-    
+
 }
 /* card2 end */
