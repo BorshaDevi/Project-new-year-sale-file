@@ -117,9 +117,12 @@ body{
     font-size:20px;
     font-weight:18px ;
 }
+.btn{
+
+    justify-content: left;
+}
  #img{
     width:290px;
-    height: 400px;;
-    
+    height: 400px;
 }
 /* party end */
