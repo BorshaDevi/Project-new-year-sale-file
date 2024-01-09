@@ -178,16 +178,21 @@ button{
 
 }
 .left{
-
+    margin-top:20px;
+    line-height: 10px;
 }
 .left-title{
-
+    color:red;
+    margin-bottom: 0;
 }
 .left-offer{
-
+  font-size: 20px;
+  font-family: merriweather;
+ 
 }
 .left-descriftion{
-
+      font-size:15px;
+      line-height: 15px;
 }
 .img{
     
