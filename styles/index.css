@@ -220,9 +220,12 @@ button{
     line-height: 15px;
 }
 .new-year-pic{
-
+   width:50px;
+   height:30px;
+ 
 }
 .right-img{
-
+    width:140px;
+    height:140px;
 }
 /* card2 end */
