@@ -118,7 +118,6 @@ body{
     font-weight:18px ;
 }
 .btn{
-
     justify-content: left;
 }
  #img{
@@ -126,3 +125,11 @@ body{
     height: 400px;
 }
 /* party end */
+/* card1 start */
+.card{
+
+}
+.card-descraftion{
+
+}
+/* card1 end */
