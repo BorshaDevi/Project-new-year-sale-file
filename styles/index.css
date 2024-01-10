@@ -265,11 +265,16 @@ button{
     text-align: center;
     letter-spacing: 0;
     font-size:40px;
+    font-family: intel;
 }
 #card-descrafition{
     text-align: center;
-    line-height:15px ;
-    
+    line-height:20px ;
+     
+     font-size: 20px;
+}
+span{
+    color:red;
 }
 
 /* card3 end */
