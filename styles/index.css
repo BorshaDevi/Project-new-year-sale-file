@@ -353,23 +353,27 @@ span{
      .email{
         margin:0 auto;
         background-color:rgb(172, 175, 181);
-        width:500px;
-        height:300px;
+        width:600px;
+        height:350px;
         margin-top:150px;
         border-radius:10px ;
         border:1px solid rgb(172, 175, 181);
         box-shadow:0 10px 8px 0 rgba(0,0,0,0.2);
      }
      .email-tag{
-
+             text-align: center;
      }
      .email-img{
-
+          width:150px;
+          height: 150px;
      }
      .email-tag-tit{
-
+              font-family: intel;
+              font-weight: 40px;
+              font-size:30px;
      }
      .email-tag-des{
-
+             font-family:merriweather ;
+             
      }
 /* email end */
