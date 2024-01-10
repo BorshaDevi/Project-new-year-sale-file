@@ -277,19 +277,22 @@ span{
     color:red;
 }
 
-.red-img{
+/* .red-img{
     width:1000px;
     margin-top:178px;
-}
+} */
 .Celebration-img{
     width:250px;
     height:200px;
-    margin-top:110px;
-    margin-left: 200px;
-    justify-content: space-evenly;
+    margin-top:20px;
+     margin-left: 228px;
+    
 }
 .sale-imgs{
-    
-   
+    background-image: url('../images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    margin-top: 144.18px;
+    width:1000px;
 }
+
 /* card3 end */
