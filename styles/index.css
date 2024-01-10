@@ -240,11 +240,12 @@ button{
     margin: 0 auto;
     background-color:white;
     width:1000px;
-    height:992px;
+    height:728px;
     margin-top:400px;
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
     border:3px solid red;
+   
     
 } 
  .special-card2{
@@ -270,7 +271,6 @@ button{
 #card-descrafition{
     text-align: center;
     line-height:20px ;
-     
      font-size: 20px;
 }
 span{
@@ -281,14 +281,12 @@ span{
     width:1000px; 
     position:relative; 
 }
-/* .sale-imgs{
-    background-image: url('../images/Rectangle\ 2.png');
-    background-repeat: no-repeat;
-    margin-top: 144.18px;
-    width:1000px;
- } */
+.sale-imgs{
+    position: absolute;
+ }
 .Celebration-img{
    height:400px;
+   margin-top: 700px;
 } 
 
 
