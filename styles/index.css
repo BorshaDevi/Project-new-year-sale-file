@@ -93,7 +93,7 @@ body{
     border-radius: 10px;
     position: relative;
     display: flex;
-    align-items: center;
+    
     justify-content: space-between;
 }
 .midnight-party{
@@ -118,11 +118,17 @@ body{
     font-weight:18px ;
 }
 .btn{
-    justify-content: left;
 }
+
  #img{
     width:290px;
     height: 400px;
+    position: relative;
+    
+}
+.party-img{
+ position: absolute;
+ 
 }
 /* party end */
 /* card1 start */
@@ -172,12 +178,10 @@ button{
     margin-top:200px;
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
-    display: flex;
-    justify-content: space-around;
 } 
 .special-card{
-      width:500px;
-      height:200px;
+      width:1000px;
+      height:400px;
 }
 .left{
     margin-top:20px;
@@ -197,7 +201,7 @@ button{
       line-height: 15px;
 }
 .img{ 
-    width:500px;
+    width:350px;
     height:200px;
     margin: 0 50px 0 50px;
     position: relative;
@@ -210,7 +214,7 @@ button{
     padding:5px;
 }
 .right{
-   
+    
 }
 .right-title{
     color:red;
@@ -245,6 +249,7 @@ button{
     width:200px;
     height:150px;
     text-align: right;
+    position: absolute;
 }
 .special-card2{
     width:500px;
