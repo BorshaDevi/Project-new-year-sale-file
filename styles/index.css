@@ -274,14 +274,28 @@ span{
      margin-bottom:320px;
      width:1000px;
      
+     
 }
 .Celebration-img{
     margin-bottom: 1600px;
     height:400px;
+    
 }
 .img-girl{
+    background-image: url('../images/Rectangle\ 1.png');
+    background-repeat: no-repeat;
     width:200px;
-    margin-top:150px;
+    margin-top:170px;
     margin-left: 800px;
+    background-size: 200px;
 }
+
 /* card3 end */
+/* picture start */
+ .picture{
+
+ }
+ .picture-titles{
+    
+ }
+/* picture end */
