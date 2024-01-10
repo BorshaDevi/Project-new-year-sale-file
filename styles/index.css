@@ -277,23 +277,24 @@ span{
     color:red;
 }
 
-/* .red-img{
+ .red-img{
     width:1000px;
-    margin-top:178px;
-} */
-.sale-imgs{
+    margin-bottom:200px;
+    
+}
+/* .sale-imgs{
     background-image: url('../images/Rectangle\ 2.png');
     background-repeat: no-repeat;
     margin-top: 144.18px;
     width:1000px;
-}
+ } */
 .Celebration-img{
     width:300px;
     height:250px;
     margin-bottom:450px ;
      margin-left: 228px;
     
-}
+} 
 
 
 /* card3 end */
