@@ -237,18 +237,18 @@ button{
 /* card2 end */
 /* card3 start */
 .card-design2{
-    
+    margin: 0 auto;
     background-color:white;
-    width:1600px;
-    height:800px;
+    width:1000px;
+    height:500px;
     margin-top:400px;
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
+    border:3px solid red;
+    
 } 
-.special-card2{
-    width:500px;
-      height:200px;
-      display: flex;
+ .special-card2{
+    line-height:10px ;
 }
 
 /* .design-img{
@@ -257,13 +257,18 @@ button{
     text-align: right;
     position: absolute;
 } */
-.title{
-
+ #title{
+     text-align: center;
+     margin-top:4px;
 }
-.big-title{
-
+ #big-title{
+    text-align: center;
+    letter-spacing: 0;
+    font-size:40px;
 }
-.card-descrafition{
+#card-descrafition{
+    text-align: center;
+    line-height:15px ;
     
 }
 
