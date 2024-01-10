@@ -320,21 +320,22 @@ span{
  }
  .add-pic{
    margin-top: 30px;
+   display: flex;
    justify-content: space-between;
- display: flex;
+ 
  }
  .img-tag{
     width:300px;
     height:250px;
  }
  .add-pic2{
+    display: flex;
  justify-content: space-between;
- display: flex;
+ 
  }
  .img-tag2{
     width:300px;
     height:250px;
-    
  }
 
 /* picture end */
