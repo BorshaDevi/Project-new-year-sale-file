@@ -134,13 +134,13 @@ body{
 /* card1 start */
 .card-design{
     margin:0 auto;
-    background-color:rgb(172, 175, 181);
+    background-color:rgb(231, 223, 223);
     width:500px;
     height:300px;
     margin-top:150px;
     border-radius:10px ;
     border:1px solid rgb(172, 175, 181);
-    box-shadow:0 10px 8px 0 rgba(0,0,0,0.2);
+    box-shadow:0 1px 2px 0;
 }
 .card{
     display: flex;
@@ -352,7 +352,7 @@ span{
 /* email start */
      .email{
         margin:0 auto;
-        background-color:rgb(172, 175, 181);
+        background-color:  rgb(231, 223, 223);          
         width:600px;
         height:350px;
         margin-top:150px;
@@ -374,5 +374,27 @@ span{
      }
      .email-tag-des{
              font-family:merriweather ;
+     }
+     .input{
+        text-align: center;
+        display: flex;
+        background-color: white;
+        padding:2px 2px 2px 2px;
+        width:300px;
+        border-radius: 30px;
+        justify-content: center;
+        align-items: center;
+        margin-left:150px;
+        box-shadow: 0 1px 2px 0 ;
+     }
+     .input1{
+        border:none;
+        width:300px;
+        text-align: center;
+     }
+     .btn1{
+        border-radius: 30px;
+      margin: 0 auto;
+      padding:10px;
      }
 /* email end */
