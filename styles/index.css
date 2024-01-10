@@ -295,11 +295,11 @@ span{
  .picture{
     margin:0 auto;
       width:1000px;
-      height: 800px;
+      height: 700px;
       margin-top:400px;
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
-    border:1px solid red;
+    
  }
  .picture-titles{
 
@@ -318,11 +318,23 @@ span{
      font-size:15px;
      color: rgb(120, 116, 116);
  }
- .add-pic .img-tag{
+ .add-pic{
    margin-top: 30px;
+   justify-content: space-between;
+ display: flex;
  }
  .img-tag{
-    width:325px;
+    width:300px;
     height:250px;
  }
+ .add-pic2{
+ justify-content: space-between;
+ display: flex;
+ }
+ .img-tag2{
+    width:300px;
+    height:250px;
+    
+ }
+
 /* picture end */
