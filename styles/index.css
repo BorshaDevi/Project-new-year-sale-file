@@ -293,7 +293,13 @@ span{
 /* card3 end */
 /* picture start */
  .picture{
-
+    margin:0 auto;
+      width:1200px;
+      height: 1000px;
+      margin-top:400px;
+    border-radius:10px ;
+    box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
+    border:1px solid red;
  }
  .picture-titles{
 
@@ -302,7 +308,7 @@ span{
 
  }
  .pic-tit2{
-    
+
  }
  .pic-des{
 
