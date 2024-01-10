@@ -294,7 +294,7 @@ span{
 /* picture start */
  .picture{
     margin:0 auto;
-      width:1200px;
+      width:1000px;
       height: 1000px;
       margin-top:400px;
     border-radius:10px ;
@@ -305,12 +305,17 @@ span{
 
  }
  .pic-tit{
-
+    margin-top:4px;
+    font-size: 15px;
+   color: red;
  }
  .pic-tit2{
-
+       font-size:30px;
+       font-family: inter;
+       color:black;
  }
  .pic-des{
-
+     font-size:15px;
+     color: rgb(120, 116, 116);
  }
 /* picture end */
