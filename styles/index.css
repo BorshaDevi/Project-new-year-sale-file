@@ -237,22 +237,34 @@ button{
 /* card2 end */
 /* card3 start */
 .card-design2{
-    margin:0 auto;
+    
     background-color:white;
     width:1600px;
     height:800px;
-    margin-top:200px;
+    margin-top:400px;
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
 } 
-.design-img{
+.special-card2{
+    width:500px;
+      height:200px;
+      display: flex;
+}
+
+/* .design-img{
     width:200px;
     height:150px;
     text-align: right;
     position: absolute;
+} */
+.title{
+
 }
-.special-card2{
-    width:500px;
-      height:200px;
+.big-title{
+
 }
+.card-descrafition{
+    
+}
+
 /* card3 end */
