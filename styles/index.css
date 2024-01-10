@@ -337,5 +337,15 @@ span{
     width:300px;
     height:250px;
  }
+ .img-tag:hover{
+    border:3px solid cyan;
+    margin: 20px;
+    box-shadow: 0 10px 8px 0 rgba(92, 5, 5, 0.474);
+ }
+ .img-tag2:hover{
+    border:3px solid cyan;
+    margin: 20px 20px 0px 20px;
+    box-shadow: 0 10px 8px 0 rgba(92, 5, 5, 0.474);
+ }
 
 /* picture end */
