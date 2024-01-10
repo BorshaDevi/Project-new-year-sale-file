@@ -172,6 +172,8 @@ button{
     margin-top:200px;
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
+    display: flex;
+    justify-content: space-around;
 } 
 .special-card{
       width:500px;
