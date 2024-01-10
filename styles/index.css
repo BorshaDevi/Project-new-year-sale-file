@@ -277,20 +277,15 @@ span{
     color:red;
 }
 
-/* .red-img{
-    width:1000px; 
-    position:relative; 
-} */
+
 .red-img{
     background-image: url('../images/Rectangle\ 2.png');
-    background-repeat: no-repeat;
-    width:1000px;
 }
-.Celebration-img{
+/* .Celebration-img{
    height:400px;
    margin-top: 700px;
    
-} 
+}  */
 
 
 
