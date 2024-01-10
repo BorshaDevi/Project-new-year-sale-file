@@ -277,10 +277,9 @@ span{
     color:red;
 }
 
- .red-img{
-    width:1000px;
-    margin-bottom:700px;
-    
+.red-img{
+    width:1000px; 
+    position:relative; 
 }
 /* .sale-imgs{
     background-image: url('../images/Rectangle\ 2.png');
@@ -289,7 +288,7 @@ span{
     width:1000px;
  } */
 .Celebration-img{
-   
+   height:400px;
 } 
 
 
