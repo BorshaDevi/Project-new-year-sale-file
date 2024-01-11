@@ -403,14 +403,17 @@ span{
 /* footer start */
 .footer-contenair{
     margin-top: 100px;
-    width:1600px;
+    width:1000px;
     background-color: navy;
+    text-align: center;
+    margin-left: 150px;
 }
 .footer-contant{
-    
+
 }
 .footer-head{
-    display: inline-flex;
+    display:flex;
+    justify-content: space-around;
 }
 .head-p{
    color:white;
@@ -421,7 +424,8 @@ span{
 }
 .iconing-img{
     text-align: center;
-    justify-content: space-around;
+    padding: 20px;
+    
 }
 .iconing-img-size{
     width:30px;
