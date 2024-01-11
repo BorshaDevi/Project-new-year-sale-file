@@ -410,14 +410,16 @@ span{
 .footer-contant{
 }
 .footer-head{
+    display: inline-flex;
 }
 .head-p{
    color:white;
+   
 }
 .img-icon{
     color:white;
 }
 .iconing-img{
-    
+
 }
 /* footer end */
