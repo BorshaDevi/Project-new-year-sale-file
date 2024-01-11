@@ -404,13 +404,12 @@ span{
 .footer-contenair{
     margin-top: 100px;
     width:1000px;
-    height: 500px;
     background-color: navy;
     text-align: center;
     margin-left: 150px;
 }
 .footer-contant{
-
+     
 }
 .footer-head{
     display:flex;
@@ -434,5 +433,12 @@ span{
 }
 .foot-end{
     color:white;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 20px 30px 20px;
+}
+hr{
+    width:700px;
+    opacity: 0.2;
 }
 /* footer end */
