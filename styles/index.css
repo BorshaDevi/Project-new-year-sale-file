@@ -405,17 +405,19 @@ span{
     margin-top: 100px;
     width:1000%;
     background-color: navy;
+
 }
 .footer-contant{
 }
 .footer-head{
-     display: flex;
-     justify-content: space-around;
 }
 .head-p{
-
+   color:white;
 }
 .img-icon{
     color:white;
+}
+.iconing-img{
+    
 }
 /* footer end */
