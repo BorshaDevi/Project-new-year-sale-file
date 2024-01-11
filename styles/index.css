@@ -186,15 +186,16 @@ button{
     justify-content: space-between;
 }
 .left{
-    margin-top:20px;
-    line-height: 10px;
+    margin-top: 100px;
+    line-height: 5px;
+
 }
 .left-title{
     color:red;
-    margin-bottom: 0;
+    font-size: 15px;
 }
 .left-offer{
-  font-size: 20px;
+  font-size: 40px;
   font-family: merriweather;
  
 }
@@ -215,7 +216,6 @@ button{
     padding:5px;
 }
 .right{
-    margin
 }
 .right-title{
     color:red;
