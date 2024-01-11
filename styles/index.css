@@ -414,6 +414,7 @@ span{
 .footer-head{
     display:flex;
     justify-content: space-around;
+    padding: 20px;
 }
 .head-p{
    color:white;
