@@ -172,15 +172,18 @@ button{
 .card-design1{
     margin:0 auto;
     background-color:white;
-    width:1000px;
-    height:300px;
+    width:1050px;
+    height:400px;
     margin-top:200px;
     border-radius:10px ;
     box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
+    border:1px solid red;
 } 
 .special-card{
       width:1000px;
       height:400px;
+      display: flex;
+    justify-content: space-between;
 }
 .left{
     margin-top:20px;
@@ -201,19 +204,18 @@ button{
 }
 .img{ 
     width:350px;
-    height:200px;
+    height:400px;
     margin: 0 50px 0 50px;
-    position: relative;
+   margin-bottom: 0;
 }
 .img-design{
     border: 10px solid red;
     border-radius: 100%;
-    position: absolute;
-    bottom: 0;
+
     padding:5px;
 }
 .right{
-    
+    margin
 }
 .right-title{
     color:red;
