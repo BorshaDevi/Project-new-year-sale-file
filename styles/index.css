@@ -404,6 +404,7 @@ span{
 .footer-contenair{
     margin-top: 100px;
     width:1000px;
+    height: 500px;
     background-color: navy;
     text-align: center;
     margin-left: 150px;
@@ -430,5 +431,8 @@ span{
 }
 .iconing-img-size{
     width:30px;
+}
+.foot-end{
+    color:white;
 }
 /* footer end */
