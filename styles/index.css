@@ -403,11 +403,11 @@ span{
 /* footer start */
 .footer-contenair{
     margin-top: 100px;
-    width:1000%;
+    width:1600px;
     background-color: navy;
-
 }
 .footer-contant{
+    
 }
 .footer-head{
     display: inline-flex;
@@ -420,6 +420,10 @@ span{
     color:white;
 }
 .iconing-img{
-
+    text-align: center;
+    justify-content: space-around;
+}
+.iconing-img-size{
+    width:30px;
 }
 /* footer end */
