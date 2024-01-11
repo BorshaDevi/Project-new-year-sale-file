@@ -7,6 +7,7 @@ body{
     align-items: center;
 }
 .header{ 
+    margin: 0 auto;
     background-image: url(../images/Banner\ Image.png);
     background-repeat: no-repeat;
     width:1300px;
@@ -42,9 +43,10 @@ body{
 
 /* 50% off start */
 .off-sale{
+    margin: 0 auto;
     background-color: rgb(239, 223, 223);
      position: relative;
-    width:1500px;
+    width:1300px;
     height: 700px;
     margin-top:200px;
     justify-content: center;
@@ -86,6 +88,7 @@ body{
 
 /*  party start*/
 .party{
+    margin: 0 auto;
     background-image: url('../images/Vectorrr.png') ;
     background-repeat: no-repeat;
     width:1300px;
@@ -402,11 +405,12 @@ span{
 /* main end */
 /* footer start */
 .footer-contenair{
+    margin: 0 auto;
     margin-top: 100px;
     width:1000px;
     background-color: navy;
     text-align: center;
-    margin-left: 150px;
+    margin-left: px;
 }
 .footer-contant{
      padding: 20px;
@@ -424,14 +428,15 @@ span{
     color:white;
 }
 .tele-img{
-    padding-right: 5px;
-   width:20px
+    margin-top: 10px;
+    margin-right: 10px;
+    width:15px;
 }
 .web-img{
-    
-}
-.link{
-    
+    margin-top: 10px;
+    margin-right: 10px;
+    width:15px;
+
 }
 .iconing-img{
     text-align: center;
