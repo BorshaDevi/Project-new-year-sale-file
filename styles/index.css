@@ -51,7 +51,6 @@ body{
     margin-top:200px;
     justify-content: center;
     align-items: center;
- 
 }
 .offer-descraftion{
      position: absolute;
@@ -95,14 +94,11 @@ body{
     height: 500px;
     margin-top: 650px;
     border-radius: 10px;
-    position: relative;
     display: flex;
-    
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .midnight-party{
     text-align: center;
-    position: absolute;
 }
 .party-title{
     color:white;
