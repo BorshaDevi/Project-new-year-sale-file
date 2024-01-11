@@ -400,3 +400,9 @@ span{
      }
 /* email end */
 /* main end */
+/* footer start */
+.footer-contenair{
+    width:1000%;
+    background-color: navy;
+}
+/* footer end */
