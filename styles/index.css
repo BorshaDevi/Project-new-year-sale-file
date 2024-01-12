@@ -237,60 +237,58 @@ button{
 }
 /* card2 end */
 /* card3 start */
-.card-design2{
-    margin: 0 auto;
-    background-color:white;
-    width:1000px;
-    height:728px;
-    margin-top:400px;
-    border-radius:10px ;
-    box-shadow:0 10px 8px 0 rgba(194, 191, 191, 0.2);
-   
+.div-contaniar{
+    margin:0 auto;
+    width:1300px;
+    height:1065px;
+   border:1px solid black;
+    box-shadow: 0 10px 8px 0 rgb(184, 170, 170);
 } 
- .special-card2{
-    line-height:10px ;
+.special-card2{
+    text-align: center;
+    margin-top:20px;
+}
+.div{
+    position: relative;
+}
+.red{
+     position: absolute;
+}
+.off{
+
+}
+.girl{
+    width:150px;
+    top:800px;
+    left:1200px;
+   
+}
+.off{
+    top:850px;
+    height:200px;
+    left:1050px;
+    z-index: 1;
+}
+.off-img{
+
+}
+.girl-img{
+
+}
+.gift{
+    top:250px;
+    z-index:1;
+}
+.gift-img{
+    
+}
+.red-img{
+
 }
 
- #title{
-     text-align: center;
-     margin-top:4px;
-}
- #big-title{
-    text-align: center;
-    letter-spacing: 0;
-    font-size:40px;
-    font-family: intel;
-}
-#card-descrafition{
-    text-align: center;
-    line-height:20px ;
-     font-size: 20px;
-}
 span{
     color:red;
 }
-.img-red{
-    background-image: url('../images/Rectangle\ 2.png');
-    background-repeat: no-repeat;
-     margin-bottom:320px;
-     width:1000px;
-     
-     
-}
-.Celebration-img{
-    margin-bottom: 1600px;
-    height:400px;
-    
-}
-.img-girl{
-    background-image: url('../images/Rectangle\ 1.png');
-    background-repeat: no-repeat;
-    width:200px;
-    margin-top:170px;
-    margin-left: 800px;
-    background-size: 200px;
-}
-
 /* card3 end */
 /* picture start */
  .picture{
